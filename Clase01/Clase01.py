@@ -1,4 +1,4 @@
-from .Libro import Libro
+from Libro import Libro
 
 opcion = 0 
 libros = {}
